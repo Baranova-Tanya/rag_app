@@ -1,0 +1,8 @@
+openai
+supabase>=2.4.0
+fastapi>=0.111.0
+uvicorn>=0.29.0
+numpy
+pandas
+python-dotenv
+pydantic
